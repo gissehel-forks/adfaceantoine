@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const datasetFilter = ref('both')
 
       const GEOJSON_URL = 'https://gist.githubusercontent.com/kernoeb/95db7d5949f8c558fab754ba18214dc6/raw'
-      const ADCHAPO_GEOJSON_URL = 'https://gist.githubusercontent.com/gisstest/b5c68849c31452e3f999c37be9761065/raw'
+      const ADCHAPO_GEOJSON_URL = 'https://gist.githubusercontent.com/gisstest/04eb2efa5c9a88dbcd87487e2b9042b7/raw'
       // const ADCHAPO_GEOJSON_URL = 'https://gist.githubusercontent.com/kernoeb/462dc24f707235bb99cb09333f330de7/raw'
       const antoinePngBase64 = `data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHAAAABwCAIAAABJgmMcAAAAAXNSR0IB2cksfwAAAARnQU1BAACxjwv8YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAAlwSFlzAAAuIwAALiMBeKU/dgAAAAd0SU1FB+kJGRA0GofwM3MAAAERSURBVHja7dyxDYJAFIBhIZT2xF2MhQO4IptQMIkdC9jYEEbwIPcC531/fUH48rAwdzbv4XtRvloEQIECFVCgQAUUKFABBQoUqIACBSqgQIEKKFCgAgoUKFDlqIu46O3xTFw5T+OffboJBQoUqIACBSqgQIEKKFCgVdc4SWdCgQIVUKBABRQoUAEFChRo2tL2k2XNuZ7/1w1vfaINe5v6+ytxZcSeoYgidkF55X2HAgUqoECBCihQoAIKFGjVFXOSLv2aJtQrL6BAgQooUKBABRTojrssZ0NKGaDLcgVaaSEn6Y79ZejYnVUmFChQoAIKFKiAAgUqoECBVp3/bTKhQIEKKFCgAgoUqIACBQpU+VoB4swkRDRvDOwAAAAASUVORK5CYII=`
 
